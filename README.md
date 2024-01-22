@@ -1,12 +1,14 @@
-# starter-micro-api
+# nodejs-firebase
+CRUD operations using Node.js, Firebase
 
-This is the simplest possible nodejs api using the base http library that responds to any request with: 
-```
-Yo!
-```
+## firebase-admin
 
-## Deploy in under 10 seconds
+**Quickstart**
+[Get started in 5 minutes] [Quickstart](https://www.npmjs.com/package/firebase-admin).
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
-- Sets up instant continuous deployment on `git push`
-- Realtime backend logs and API request monitoring
+
+Run this project by this command :
+
+1. `npm install`
+2. `npm start`
+3. `localhost:3000`
